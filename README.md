@@ -11,7 +11,6 @@ Agenda 19-03-2019
 * [12. Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html)
 * [Virtual Enviroment setup ](materials/virtual_enviroment_setup.md)
 
-
 ### Supplementary reading
 <!--
 * [virtualenv 16.4.3](https://pypi.org/project/virtualenv/)
@@ -21,6 +20,7 @@ Agenda 19-03-2019
 
 ## Exercises
 * [Tic Tac Toe](exercises/tic_tac_toe.md)
+* [Ducktypingexercise](https://github.com/python-elective-1-spring-2019/Lesson-10-oop-ducktyping-decorators-abc/blob/master/exercises/duck_typing.md)
 
 ## Code from today
 [Code](/code_from_today)
